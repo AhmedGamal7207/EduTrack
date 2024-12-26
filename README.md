@@ -52,20 +52,6 @@ EduTrack offers a wide array of advanced features that leverage artificial intel
 
 ---
 
-## Technology Stack
-EduTrack is built using a modern, scalable, and secure technology stack, integrating **AI advancements** to deliver its features:
-
-- **Frontend**: React.js, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JWT (JSON Web Tokens)
-- **Hosting**: AWS (Amazon Web Services)
-- **Artificial Intelligence**:
-  - **Machine Learning Models**: TensorFlow, Scikit-learn
-  - **Data Analysis**: Python (Pandas, Matplotlib)
-
----
-
 ## Usage
 
 ### For Students:
